@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Risk</string>
+    <string name="attackerDicePicture0">attackerDicePicture0</string>
+    <string name="attackerDicePicture1">attackerDicePicture1</string>
+    <string name="attackerDicePicture2">attackerDicePicture2</string>
+    <string name="defenderDicePicture0">defenderDicePicture0</string>
+    <string name="defenderDicePicture1">defenderDicePicture1</string>
+</resources>
